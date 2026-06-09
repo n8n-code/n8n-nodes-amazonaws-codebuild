@@ -53,9 +53,56 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Post batch delete builds, Post batch get build batches, Post batch get builds, Post batch get projects, Post batch get report groups, Post batch get reports, Post create project, Post create report group, Post create webhook, Post delete build batch, Post delete project, Post delete report, Post delete report group, Post delete resource policy, Post delete source credentials, Post delete webhook, Post describe code coverages, Post describe test cases, Post get report group trend, Post get resource policy, Post import source credentials, Post invalidate project cache, Post list build batches, Post list build batches for project, Post list builds, Post list builds for project, Post list curated environment images, Post list projects, Post list report groups, Post list reports, Post list reports for report group, Post list shared projects, Post list shared report groups, Post list source credentials, Post put resource policy, Post retry build, Post retry build batch, Post start build, Post start build batch, Post stop build, Post stop build batch, Post update project, Post update project visibility, Post update report group, Post update webhook |
+<details>
+<summary><b>Default</b> (45 operations)</summary>
+
+- Post Batch Delete Builds
+- Post Batch Get Build Batches
+- Post Batch Get Builds
+- Post Batch Get Projects
+- Post Batch Get Report Groups
+- Post Batch Get Reports
+- Post Create Project
+- Post Create Report Group
+- Post Create WEBHOOK
+- Post Delete Build Batch
+- Post Delete Project
+- Post Delete Report
+- Post Delete Report Group
+- Post Delete Resource Policy
+- Post Delete Source Credentials
+- Post Delete WEBHOOK
+- Post Describe Code Coverages
+- Post Describe Test Cases
+- Post Get Report Group Trend
+- Post Get Resource Policy
+- Post Import Source Credentials
+- Post Invalidate Project Cache
+- Post List Build Batches
+- Post List Build Batches For Project
+- Post List Builds
+- Post List Builds For Project
+- Post List Curated Environment Images
+- Post List Projects
+- Post List Report Groups
+- Post List Reports
+- Post List Reports For Report Group
+- Post List Shared Projects
+- Post List Shared Report Groups
+- Post List Source Credentials
+- Post Put Resource Policy
+- Post Retry Build
+- Post Retry Build Batch
+- Post Start Build
+- Post Start Build Batch
+- Post Stop Build
+- Post Stop Build Batch
+- Post Update Project
+- Post Update Project Visibility
+- Post Update Report Group
+- Post Update WEBHOOK
+
+</details>
 
 ---
 

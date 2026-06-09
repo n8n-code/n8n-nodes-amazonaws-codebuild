@@ -8,7 +8,7 @@ import type {
 export class AmazonawsCodebuildApi implements ICredentialType {
 	name = 'N8nDevAmazonawsCodebuildApi';
 
-	displayName = 'amazonaws-codebuild API';
+	displayName = 'Amazonaws Codebuild API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsCodebuild/amazonaws-codebuild.png', dark: 'file:../nodes/AmazonawsCodebuild/amazonaws-codebuild.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsCodebuildApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://codebuild.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-codebuild API server',
+			description: 'The base URL of your Amazonaws Codebuild API server',
 		},
 		{
 			displayName: 'API Key',

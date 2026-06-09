@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsCodebuild implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-codebuild',
+		displayName: 'Amazonaws Codebuild',
 		name: 'N8nDevAmazonawsCodebuild',
 		icon: { light: 'file:./amazonaws-codebuild.png', dark: 'file:./amazonaws-codebuild.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'CodeBuild is a fully managed build service in the cloud. CodeBuild compiles your source code, runs unit tests, and produces artifacts that are ready to deploy. Cod..',
-		defaults: { name: 'amazonaws-codebuild' },
+		description: 'CodeBuild is a fully managed cloud build service that compiles source code, runs tests, and produces deployable artifacts.',
+		defaults: { name: 'Amazonaws Codebuild' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

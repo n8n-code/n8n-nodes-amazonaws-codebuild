@@ -2184,7 +2184,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "string",
 			"default": "",
@@ -6611,7 +6611,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "string",
 			"default": "",
@@ -6710,7 +6710,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "string",
 			"default": "",
@@ -7200,7 +7200,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Insecure Ssl Override",
+			"displayName": "Insecure SSL Override",
 			"name": "insecureSslOverride",
 			"type": "boolean",
 			"default": true,
@@ -8105,7 +8105,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Insecure Ssl Override",
+			"displayName": "Insecure SSL Override",
 			"name": "insecureSslOverride",
 			"type": "boolean",
 			"default": true,
@@ -8655,7 +8655,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "string",
 			"default": "",
@@ -8755,7 +8755,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Id",
+			"displayName": "ID",
 			"name": "id",
 			"type": "string",
 			"default": "",
